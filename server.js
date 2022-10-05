@@ -13,6 +13,7 @@ app.use(
 );
 app.use(express.json());
 
+// Our database
 let DB = [];
 
 /**
